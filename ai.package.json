@@ -1,0 +1,16 @@
+{
+  "setup":{
+    "name":"setup",
+    "version":"2.19.7.8",
+    "type":"lib",
+    "contains":[
+      "setup\/setup.exe",
+      "setup\/version"
+    ],
+    "authors":[
+      "Abu Ayyub"
+    ]
+  }
+}
+
+
