@@ -9,7 +9,7 @@
 
 # AI Setup Package
 - Just only one file ```setup.exe``` for helping AI users build their own Windows app.
-- The app is build using AI APP extension.
+- The app is built using AI APP extension.
 
 
 # Installation
